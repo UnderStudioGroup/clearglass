@@ -1,6 +1,6 @@
 Clear Glass — A Texture Pack for Minecraft
 
-![Supports](https://img.shields.io/badge/Supports-1.18➔1.21.x-informational.svg)
+![Supports](https://img.shields.io/badge/Supports-1.17➔1.21.x-informational.svg)
 ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 The Clear Glass texture pack completely reworks and improves all glass blocks in Minecraft, making them truly transparent and aesthetic. No more annoying texture lines on the glass that obstruct the view — only a clean and clear look.
